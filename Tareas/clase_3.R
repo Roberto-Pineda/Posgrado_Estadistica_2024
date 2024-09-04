@@ -62,3 +62,4 @@ boxplot(prod$Kgsem ~ prod$Tiempo)
 
 t.test(prod$Kgsem ~ prod$Tiempo, paired = T)
 tapply(prod$Kgsem, prod$Tiempo, mean)
+
