@@ -41,5 +41,5 @@ sum (edad$res^2)/58
 
 # Estimar la edad (prima) para los valores de DAP: 15,30,45,47
 valores <- c(15, 30, 45, 47)
-prima <- -8.4 + 2.4 *(valores)
+prima <- -8.4 + 2.4 *(valores)   
 prima
