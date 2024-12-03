@@ -85,3 +85,4 @@ mean(DBH.mean$Altura)
 sd(DBH.mean$Altura)
 mean(DBH.16$Altura)
 sd(DBH.16$Altura)
+
