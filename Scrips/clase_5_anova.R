@@ -6,6 +6,7 @@ boxplot( sitios$DAP ~ sitios$Paraje,
          xlab = "paraje",
          ylab =  "diametro")
 
+
 tapply(sitios$DAP, sitios$Paraje, mean)
 tapply(sitios$DAP, sitios$Paraje, var)
 
