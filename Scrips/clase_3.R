@@ -17,6 +17,7 @@ todos <- subset(profepa, profepa$Inspección != 0)
 
 
 
+
 # Descarga de datos seguros -----------------------------------------------
 
 library(repmis)
