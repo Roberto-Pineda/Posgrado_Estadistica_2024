@@ -43,3 +43,4 @@ sum (edad$res^2)/58
 valores <- c(15, 30, 45, 47)
 prima <- -8.4 + 2.4 *(valores)   
 prima
+
