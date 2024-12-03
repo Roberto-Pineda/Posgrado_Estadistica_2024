@@ -24,3 +24,4 @@ abline(er.lm)
 # Alfa (intersecto): -1.87 beta: 0.07
 ## tanto beta como alfa son significativas 
 
+
