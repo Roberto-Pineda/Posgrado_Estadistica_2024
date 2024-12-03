@@ -1,6 +1,7 @@
 # Ejercicio Datos de madera MET
 
 
+
 # Importar datos
 
 url <- "https://raw.githubusercontent.com/mgtagle/Met_Est_2024/main/Datos_Madera_MET.csv"
